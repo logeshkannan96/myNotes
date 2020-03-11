@@ -16,7 +16,6 @@ This is a collection of some random things I see while I read or learn some stuf
   - git branch <"branch name"> : Creates a new branch for the repo
   - git checkout -b <"branch name"> : Switch over the branch names
   - git checkout -- <"file name"> : Returns the given file name
-  - 
   - The .gitgnore file : Sometimes it may be a good idea to exclude files from being tracked with Git. This is typically done in a special file named .gitignore . You can find helpful templates for .gitignore files at github.com/github/gitignore
 
 ## Fonts - Typefaces
