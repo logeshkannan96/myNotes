@@ -28,4 +28,6 @@ This is a collection of some random things I see while I read or learn some stuf
 
 ## Demo Apps
   - [Conduit](https://github.com/gothinkster/angular-realworld-example-app?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - Medium Clone - Angular
-  
+
+## Websites
+  - [lapa.ninja](https://lapa.ninja) - For Designers
